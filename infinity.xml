@@ -1,5 +1,5 @@
 <Response>
-<Dial callerId="+33182889503">
+<Dial callerId="33182889503">
     <User>sip:TestROn44240265512475724987542@phone.plivo.com</User>
 </Dial>
 </Response>
